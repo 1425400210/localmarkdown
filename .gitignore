@@ -1,0 +1,9 @@
+.build/
+dist/
+.DS_Store
+EditorWeb/node_modules/
+.codex/
+.env
+.env.*
+*.pem
+*.key

@@ -1,0 +1,20 @@
+LocalMarkdown
+适用于 macOS 14 及以上、Apple Silicon Mac
+
+安装
+1. 将 LocalMarkdown.app 拖入旁边的 Applications 文件夹。
+2. 推出磁盘映像。
+3. 从「应用程序」打开 LocalMarkdown。
+
+使用
+使用 ⌘O 打开 Markdown 文件，⌘N 新建，⌘S 保存。
+「LocalMarkdown → 关于 LocalMarkdown」可查看版本和第三方许可。
+「帮助 → LocalMarkdown 使用帮助」提供快捷键与保存说明。
+默认编辑器可以在「设置 → 通用」中手动设置。
+
+当前是本地测试版本，尚未完成 Developer ID 签名和 Apple 公证。
+下载到其他 Mac 时可能被系统拦截；请勿关闭 Gatekeeper。
+已在 macOS 26.7 验证，macOS 14 真机兼容仍待验收。
+
+更新时，先保存文档并退出旧版本，再替换 Applications 中的应用。
+笔记保存在你选择的文件位置，独立于应用；卸载应用不会删除这些笔记。
